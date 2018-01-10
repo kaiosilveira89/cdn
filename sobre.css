@@ -5,10 +5,12 @@ body{
 	}
 
 h1{
-	background-image: url(https://lh4.googleusercontent.com/aKDzB7CocKAPjGGNtyP1T3cfR4sQDshGKZWGp2jTP7bmMqPVkWMXZEQWWV0IpHRE0KH_O6rIqa2MLMd42mhm=w1360-h656);
+    padding: 10;
+	background-image: url(https://goo.gl/VcBqhN);
 }
 
 h2{
+    margin-top: 30;
 	border-bottom: 2px groove #333333;
 }
 
@@ -16,8 +18,16 @@ figure{
 	background-color: #f2eded;
 	border: 1px solid #ccc;
 	text-align: center;
+    padding: 15;
+    margin: 30;
 }
 
 figcaption{
+    margin-top: 10;
 	font-style: italic
+}
+
+p{
+  padding: 0 45;
+  margin-top: 10;
 }
