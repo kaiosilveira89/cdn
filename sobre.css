@@ -1,0 +1,22 @@
+body{
+	color: #333333;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	}
+
+h1{
+	background-image: url(https://lh4.googleusercontent.com/aKDzB7CocKAPjGGNtyP1T3cfR4sQDshGKZWGp2jTP7bmMqPVkWMXZEQWWV0IpHRE0KH_O6rIqa2MLMd42mhm=w1360-h656);
+}
+
+h2{
+	border-bottom: 2px groove #333333;
+}
+
+figure{
+	background-color: #f2eded;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+
+figcaption{
+	font-style: italic
+}
